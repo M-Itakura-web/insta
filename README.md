@@ -4,7 +4,7 @@ Instagramのストーリーズ用に、店舗の予約状況画像を簡単に�
 使い方
 アプリを開く
 
-C:/Users/misio/OneDrive/ドキュメント/mebius/instagram-story-creator/index.html
+index.html
  をブラウザ（Chrome, Edgeなど）で開いてください。
 テーマの選択
 
