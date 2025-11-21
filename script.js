@@ -14,8 +14,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const statusOptions = [
         { value: 'o', label: '〇', class: 'status-o' },
+        { value: 'triangle', label: '△', class: 'status-triangle' },
         { value: 'x', label: '×', class: 'status-x' },
-        { value: 'triangle', label: '△', class: 'status-triangle' }
+        { value: '1', label: '1枠', class: 'status-number' },
+        { value: '2', label: '2枠', class: 'status-number' },
+        { value: '3', label: '3枠', class: 'status-number' },
+        { value: '4', label: '4枠', class: 'status-number' },
+        { value: '5', label: '5枠', class: 'status-number' }
     ];
 
     // Elements
